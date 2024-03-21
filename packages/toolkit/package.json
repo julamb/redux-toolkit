@@ -46,6 +46,11 @@
       "types": "./dist/query/react/index.d.ts",
       "import": "./dist/query/react/rtk-query-react.modern.mjs",
       "default": "./dist/query/react/cjs/index.js"
+    },
+    "./query/react/buildHooks": {
+      "types": "./dist/query/react/buildHooks.d.ts",
+      "import": "./dist/query/react/rtk-query-react.modern.mjs",
+      "default": "./dist/query/react/cjs/index.js"
     }
   },
   "devDependencies": {
